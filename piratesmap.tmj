@@ -133,6 +133,12 @@
          "id":13,
          "name":"collisions",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":11,
