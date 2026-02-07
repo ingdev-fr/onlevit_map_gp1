@@ -1158,7 +1158,7 @@
       "name": "collisions",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 11,
       "properties": [
         {
@@ -2337,7 +2337,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "piratesmap-chunk-1-73acca55.png",
+      "image": "piratesmap-chunk-1-4bd034be.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
