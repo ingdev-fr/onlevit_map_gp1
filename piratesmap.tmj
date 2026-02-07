@@ -1160,6 +1160,13 @@
       "type": "tilelayer",
       "visible": false,
       "width": 11,
+      "properties": [
+        {
+          "name": "collides",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -2330,7 +2337,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "piratesmap-chunk-1-f1cad7be.png",
+      "image": "piratesmap-chunk-1-73acca55.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
