@@ -2063,6 +2063,13 @@
       "visible": true,
       "draworder": "topdown",
       "id": 19,
+      "properties": [
+        {
+          "name": "collides",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -3233,7 +3240,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "piratesmap-chunk-1-fa072e13.png",
+      "image": "piratesmap-chunk-1-62c5d28f.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
