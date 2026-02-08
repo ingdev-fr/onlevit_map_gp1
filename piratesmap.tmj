@@ -1160,6 +1160,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 11,
+      "properties": [
+        {
+          "name": "collides",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -1547,6 +1554,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 11,
+      "properties": [
+        {
+          "name": "collides",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -2717,7 +2731,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "piratesmap-chunk-1-b116b31a.png",
+      "image": "piratesmap-chunk-1-9249a8d0.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
