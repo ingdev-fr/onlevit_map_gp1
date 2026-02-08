@@ -133,6 +133,12 @@
          "id":16,
          "name":"murs-1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":11,
@@ -178,6 +184,12 @@
          "id":17,
          "name":"murs-2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":11,
