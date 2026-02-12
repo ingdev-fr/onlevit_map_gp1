@@ -266,8 +266,8 @@
         1,
         1,
         1,
-        0,
         1,
+        0,
         0,
         1,
         1,
@@ -3513,7 +3513,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "piratesmap-chunk-1-db51dad7.png",
+      "image": "piratesmap-chunk-1-c4c11b1c.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
